@@ -1,3 +1,3 @@
 # Safe 77th redirect
 
-Sends safe77.publicworks.nyc to https://jaramana.github.io/safe77th/, keeping the path.
+Sends safe77.publicworks.nyc to https://safe77th.org/, keeping the path.
